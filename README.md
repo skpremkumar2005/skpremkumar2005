@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full stack Developer passionate about crafting sleek and user-friendly interfaces. I love working with React.js, improving UI/UX, and ensuring smooth user experiences.<br><br>🔹 Skills: React.js, JavaScript, HTML, CSS, UI/UX Design,Express.js, java<br>🔹 Currently Learning: Advanced React Patterns & System Design<br><br>🔹 Interests: Web development, problem-solving, and exploring new technologies<br><br>📌 Looking for opportunities to grow as a developer and collaborate on exciting projects!<br><br>💬 Feel free to connect with me! 🚀
+I'm a Full stack Developer passionate about crafting sleek and user-friendly interfaces. I love working with React.js,Express.js, improving UI/UX, and ensuring smooth user experiences.<br><br>🔹 Skills: React.js, JavaScript, HTML, CSS, UI/UX Design,Express.js, java<br>🔹 Currently Learning: Advanced React Patterns & System Design<br><br>🔹 Interests: Web development, problem-solving, and exploring new technologies<br><br>📌 Looking for opportunities to grow as a developer and collaborate on exciting projects!<br><br>💬 Feel free to connect with me! 🚀
 
 
 # 💻 Tech Stack:
