@@ -9,6 +9,7 @@ Hey there! I'm **Premkumar**, a passionate and curious **Full Stack Developer** 
 
 📌 Always open to meaningful collaboration, backend-heavy projects, and learning from fellow developers.  
 ✍️ I occasionally share my thoughts and learnings on [**Medium**](https://medium.com/@premkumar.cb22).
+👨‍💻 Portfolio [**Link**](https://myportfolio-e4pv.onrender.com/)
 
 ---
 
