@@ -5,7 +5,7 @@ Hey there! I'm **Premkumar**, a passionate and curious **Full Stack Developer** 
 🔹 I enjoy building scalable and efficient applications using **JavaScript**, **Java**, **React.js**, and **Express.js**.  
 🔹 Backend logic, data flow, server design, and system architecture are where I thrive.  
 🔹 I continuously explore **multiple programming languages** and underlying systems to strengthen my core understanding of software development.  
-🔹 Currently focused on mastering **Advanced React Patterns**, **System Design**, and backend infrastructure.
+🔹 Currently focused on mastering  **System Design**, and backend infrastructure.
 
 📌 Always open to meaningful collaboration, backend-heavy projects, and learning from fellow developers.  
 ✍️ I occasionally share my thoughts and learnings on [**Medium**](https://medium.com/@premkumar.cb22).
