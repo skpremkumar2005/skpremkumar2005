@@ -2,7 +2,7 @@
 
 Hey there! I'm **Premkumar**, a passionate and curious **Full Stack Developer** who loves diving deep into the world of programming — not just one language, but the whole ecosystem.
 
-🔹 I enjoy building scalable and efficient applications using **JavaScript**, **Java**, **React.js**, and **Express.js**.  
+🔹 I enjoy building scalable and efficient applications using **JavaScript**, **Java**,**GO**, **React.js**, and **Express.js**.  
 🔹 Backend logic, data flow, server design, and system architecture are where I thrive.  
 🔹 I continuously explore **multiple programming languages** and underlying systems to strengthen my core understanding of software development.  
 🔹 Currently focused on mastering  **System Design**, and backend infrastructure.
@@ -31,6 +31,8 @@ Hey there! I'm **Premkumar**, a passionate and curious **Full Stack Developer** 
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/:user/:repo">
+
 </p>
 
 ---
