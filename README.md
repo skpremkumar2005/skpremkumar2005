@@ -31,7 +31,7 @@ Hey there! I'm **Premkumar**, a passionate and curious **Full Stack Developer** 
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/:user/:repo">
+  
 
 </p>
 
